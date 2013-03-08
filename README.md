@@ -16,6 +16,10 @@ Já existe sites que fazem isso, mas estou fazendo isso pelo aprendizado.
 * [Web Services do Instagram](http://instagram.com/developer/) a partir dai pegamos os locais e as fotos.
 * [jQuery](https://github.com/jquery/jquery)
 
+## Como que esta funcionando hoje?
+Esta mais ou menos assim: Mostra uns pontinhos e quando clica, carrega umas 4 fotos do local, se clicar nas fotinhas ele vai para a foto no Instagram.
+![preview-do-foto-no-mapa](https://f.cloud.github.com/assets/736728/237589/4db9d85e-8819-11e2-8282-e39681707d46.PNG)
+
 ## Sugestões e bugs
 
 [Crie um issue](https://github.com/felquis/fotos-no-mapa/issues) para reportar bugs e para dar sugestões.
