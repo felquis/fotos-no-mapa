@@ -8,7 +8,7 @@
 
 A intenção é que ao entrar no App, a pessoa permita a geolocalização, e a partir dai mostramos no mapa fotos tiradas em lugares próximos a ela.
 
-Já existe sites que fazem isso, mas estou fazendo isso pelo aprendizado.
+Já existe sites que fazem isso, mas a intenção é com o projeto é o aprendizado. Um site que já faz isso é o [Instamazing](http://www.instamazing.net/).
 
 ## Quais Plugins e APIs é usado?
 
