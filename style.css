@@ -1,0 +1,12 @@
+﻿.video {
+  width: 80%;
+  position: relative;
+  margin: 0 auto;
+}
+
+.video iframe,
+.video embed,
+.video object {
+  width: 100%;
+  height: 100%;
+}
